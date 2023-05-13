@@ -1,0 +1,13 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="zombie.png" transparentColor="">
+ <animation title="right" delay="120">
+  <cut w="27" x="51" y="0" h="46" row="1" col="1"/>
+  <cut w="25" x="52" y="50" h="46" row="1" col="1"/>
+  <cut w="29" x="50" y="100" h="45" row="1" col="1"/>
+ </animation>
+ <animation title="left" delay="150">
+  <cut w="27" x="1" y="0" h="46" row="1" col="1"/>
+  <cut w="25" x="2" y="50" h="46" row="1" col="1"/>
+  <cut w="29" x="0" y="100" h="45" row="1" col="1"/>
+ </animation>
+</sprites>

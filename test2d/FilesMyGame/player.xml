@@ -1,0 +1,19 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="player.png" transparentColor="">
+ <animation title="right" delay="120">
+  <cut w="30" x="0" y="0" h="80" row="1" col="1"/>
+  <cut w="30" x="30" y="0" h="80" row="1" col="1"/>
+  <cut w="30" x="60" y="0" h="80" row="1" col="1"/>
+  <cut w="30" x="90" y="0" h="80" row="1" col="1"/>
+  <cut w="30" x="120" y="0" h="80" row="1" col="1"/>
+  <cut w="30" x="150" y="0" h="80" row="1" col="1"/>
+ </animation>
+ <animation title="left" delay="120">
+  <cut w="30" x="150" y="80" h="80" row="1" col="1"/>
+  <cut w="30" x="120" y="80" h="80" row="1" col="1"/>
+  <cut w="30" x="90" y="80" h="80" row="1" col="1"/>
+  <cut w="30" x="60" y="80" h="80" row="1" col="1"/>
+  <cut w="30" x="30" y="80" h="80" row="1" col="1"/>
+  <cut w="30" x="0" y="80" h="80" row="1" col="1"/>
+ </animation>
+</sprites>
